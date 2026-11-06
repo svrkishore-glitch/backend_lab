@@ -3,8 +3,8 @@
 
 ## Student Details
 
-- **Name:** SOMULA SUDHARSHAN REDDY
-- **Registration Number:** 252U1R1231
+- **Name:** SIRIGINEEDI VENKATA RAMA KISHORE
+- **Registration Number:** 252U1R1230
 - **Section:** CSE-CORE-2E
 
 ## Objective
